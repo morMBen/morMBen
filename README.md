@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Mordi 👋</h1>
+<h1 align="center">Call me Mordi 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mormben/">
