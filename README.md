@@ -1,9 +1,7 @@
 <h1 align='center'> Hi there, I'm Mordi 😊</h1>
 
 <h3 align='left'>Connect with me:  <a align='center' href="https://www.linkedin.com/in/mormben/">
-    <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/600px-Linkedin.svg.png" /></a> 
-    <a align='left' href="mor6686@gmail.com"><img height="20px" src="https://icon2.cleanpng.com/20171220/bxe/gmail-logo-png-5a3aaffc62d223.8975386515137955804048.jpg" />
-    </a>
+    <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/600px-Linkedin.svg.png" /></a>
 </h3>
 <p align='center'>
 <a href="https://github.com/morMBen/github-readme-stats">
